@@ -9,6 +9,6 @@ The use of a decentralized exchange that can be used for spot and perpetual trad
 >
 The companies intended customer would be anyone in the cryptospace with interest in either trading spot/perpetual with leverage, or anyone interested in providing liquidity by staking their tokens to earn yield. GMX can be purchased/used via the Arbitrum or Avalanche blockchain. At the time of writing this, according to GMX's [website](https://stats.gmx.io/), there are currently 83,109 users using Arbitrum and 14,006 users using Avalanche, giving us a total of 97,115 users on the platform. 
 >
-
-
+![users image](images/Users.PNG)
+>
 
