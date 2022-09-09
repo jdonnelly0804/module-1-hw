@@ -9,6 +9,15 @@ The use of a decentralized exchange that can be used for spot and perpetual trad
 >
 The companies intended customer would be anyone in the cryptospace with interest in either trading spot/perpetual with leverage, or anyone interested in providing liquidity by staking their tokens to earn yield. GMX can be purchased/used via the Arbitrum or Avalanche blockchain. At the time of writing this, according to GMX's [website](https://stats.gmx.io/), there are currently 83,109 users using Arbitrum and 14,006 users using Avalanche, giving us a total of 97,115 users on the platform. 
 >
-![users image](images/Users.PNG)
+![users image](Images/Users.PNG)
 >
+The solution that GMX offers vs it's competitor is two-fold. First, they offer an AMM that was discussed earlier. Second, as of now, they also use 100% of the fees they generate via trading and actually pass that back to their users. 30% of fees are used to fund those who stake GMX for a yield, and the other 70% goes to their GLP pool, which is their liquidity basket of certain tokens. This way, GMX is simultaneously providing customers with yield, and also helping provide liquidity for their users as well. As more and more users begin to pour in due to the rewards and liquidity, those users consequently also begin to provide liquidity as more users == more fees == more liquidity provided to the GLP pool. Furthermore, GMX also pays out their staking yield in the native token of the chain that you're staking on. For example if you stake GMX using Avalance, you will receive your rewards in AVAX token. If you stake GMX using Arbitrum (L2 of Ethereum), you will receive ETH. Due to this mechanism, you can also reduce your risk by diversifying your staked GMX into different tokens (AVAX/ETH).
+>
+Two different types of technology used in GMX include blockchain technology as well as using Chainlink Oracles for dynamic pricing. The blockchain technology is used via Avalanche and Arbitrum as a way to buy GMX token. Chainlink Oracles are used to provide pricing data for the tokens that are included in their liquidity pool. By using Chainling Oracles for pricing, the AMM has dynamic pricing that are used on aggregated data across many exchanges, allowing large wicks from liquidations to be less severe on the liquidity pool pricing.
 
+---
+## *Landscape:*
+The domain of the project is in the blockchain and cryptocurrencies. Major trennd and innovations within this domain include decentralized peer to peer transactions, major innovations in privacy within transactions (tornado cash), the overall development of web3 (taking ownership of ones own data),etc. Some other major companies in this domain include Coinbase, Binance, dYdX, Kucoin, kraken, and many more.
+
+---
+## *Results:*
