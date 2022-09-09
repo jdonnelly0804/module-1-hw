@@ -1,1 +1,6 @@
-# module-1-hw
+# **Module-1-HW:**
+---
+## *Overview and Origin:*
+The name of the project I chose was **GMX.IO**. This decentralized exchange was created in September of 2021. Due to the nature of this decentralized platform, the founders of this project are currently anonymous. The idea for the project came about to solve two issues. The first being to use a diffrent model than the traditional orderbook model that is reliant on market makers. Order books will list the buys/sells that are being offered at each respective price. This model relies on costly incentives for market makers as well as numerous people being active and present on the exchnage to provide liquidity at various prices. Instead, GMX.IO uses an automated market maker (AMM). This model uses liquidity pools that allow digital assets to be traded instead of traditional markets of buyers/sellers. The AMM users supply liquidity pools with a basket of acceptable crypto tokens whose prices are determined by a constant mathematical formula. Secondly, when it comes to using centralized exchanges (Binance, Coinbase, etc), you do not own the keys to your tokens/assets. If the exchange were to fail, anything that you held/owned on that exchange could potentially be lost. In a decentralized exchange, you're in charge of the custody of your tokens/assets. The only loss that could be incurred would be from depreciation of the asset, but you wouldn't have the possibility of losing custody of said tokens. Finally, due to the decentralized nature, it is unclear of exactly who funded the project. 
+
+
