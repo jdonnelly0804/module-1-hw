@@ -1,4 +1,5 @@
-# **Module-1-HW:**
+# **Module-1-HW: GMX.IO**
+![GMX](Images/gmx.jpg)
 ---
 ## *Overview and Origin:*
 The name of the project I chose was **GMX.IO**. This decentralized exchange was created in September of 2021. Due to the nature of this decentralized platform, the founders of this project are currently anonymous. The idea for the project came about due to the need of a platform that allows spot and perpetual leverage trading that is decentralized. Many in the crypto community are in the community solely for its decentralized nature. Currently, it's easiest to trade with leverage on centralized exchanges such as binance. By creating a decentralized exchange that can fulfill this function, theres a large market for those in crypto who would prefer to conduct their trades on this decentralized platform. Finally, due to the decentralized nature, it is unclear of exactly who funded the project. 
@@ -29,4 +30,16 @@ Now, lets take a look at these same statistics but for dYdX. To begin, we can ta
 
 ---
 ## *Recommendations:*
+If I were to advise the company, I would advise them of two things. The first would be to attempt to introduce as many tradeable tokens as they can as quickly as possilbe so they can continue to outcompete others such as dYdX. By introducing more tokens that can be traded, they could bring in more users and thus more liquidity and then increase the volume on their exchange, as well as bolster their fees generated. The second thing I would advise would be to offer a wider range of trading opportunities. For example, as of now they offer up to 30x leverage on leveraged trades. I think ultimately they should aim to offer up to 100-125x leverage just as [Binance](https://www.binance.com/en/futures/trading-rules/perpetual/leverage-margin), a centralized exchange does. Furthermore they could offer more financial products like potentially the ability to trade futures, options, and other derivative products that current exchanges do not offer. These recommendations would require additional blockchain technologies in order to be able to trade additional coins on the decentralized platform. They would also require coded and fleshed out programs and pricing software to properly price and update values of derivative contracts. By no means would it be simple to introduce more derivatives especially in a decentralized landscape but it is an area of the crypto universe that is yet to properly be introduced. 
 
+---
+## *Further Reading:*
+If you wish to learn more about GMX and their competitors I've provided some links that you may find useful:
+>
+*[Stats](https://stats.gmx.io/)*
+>
+*[Roadmap, Tokenomics, Rewards, etc](https://gmxio.gitbook.io/gmx/)*
+>
+*[Comparative valuation vs Competitors](https://research.thetie.io/gmx-valuation-vs-dydx/#GMX_vs_Peers)*
+>
+*[GMX Staking/GLP Liquidity Pool](https://chaindebrief.com/all-you-need-to-know-about-gmx/)*
