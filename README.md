@@ -19,7 +19,7 @@ Two different types of technology used in GMX include blockchain technology as w
 
 ---
 ## *Landscape:*
-The domain of the project is in the blockchain and cryptocurrencies. Major trend and innovations within this domain include decentralized peer to peer transactions, major innovations in privacy and security within transactions (tornado cash), the overall development of web3 (taking ownership of one's own data), NFT's, smart contracts, etc. Some other major companies in this domain include Coinbase, Binance, dYdX, Kucoin, kraken, FTX, and many more.
+The domain of the project is in the blockchain and cryptocurrencies. Major trend and innovations within this domain include decentralized peer to peer transactions, major innovations in privacy and security within transactions (tornado cash), the overall development of web3 (taking ownership of one's own data), NFT's, smart contracts, decentralized exchanges, etc. According to [exploding topics](https://explodingtopics.com/blog/cryptocurrency-trends) *"Search growth for the term 'Decentralized Exchange' has risen by 314% over the last 5 years"*. Some other major companies in this domain include Coinbase, Binance, dYdX, Kucoin, kraken, FTX, and many more. A list of some of the top centralized and decentralized exchanges can be seen [here](https://corporatefinanceinstitute.com/resources/knowledge/other/cryptocurrency-exchanges/).
 
 ---
 ## *Results:*
